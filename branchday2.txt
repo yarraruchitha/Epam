@@ -1,0 +1,13 @@
+hii this is your day 2 the commands that we used for branch are 
+->git brancg b1(branch name)[to create new branch]
+->git checkout b1[to move to branch b1]
+->nano filename.txt
+{
+enter some content
+}
+->git status
+->git add file name
+->git status
+->git commit -m "file in b1 branch"
+->git checkout master
+->git merge b1[to move the files present in the b1 are moving into the mster folder
